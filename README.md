@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jabir Abdi
 - 👀 I’m interested in computer vision, image processing , machine learning
-- 🌱 I’m currently learning data structure and algorithms, machine learning, advanced computervision/image processing
 - 💞️ I’m looking to collaborate on computer vision, image processing , machine learning
 - 📫 How to reach me jabirmohamedwork@gmail.com
 
